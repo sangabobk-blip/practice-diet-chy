@@ -1,0 +1,6 @@
+
+plotly
+requests
+streamlit>=1.37.0
+pandas>=2.0.0
+Pillow>=9.0.0
